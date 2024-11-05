@@ -13,7 +13,7 @@
 
 * A faire à la prochaine séance : Définition de la méthode de travail et lecture des documentations de Dolibarr
 * Difficultés rencontrées : Aucune
-* Remarques sur la séances (membre absent, pbe technique, ...) : Carmella Nguimbi
+* Remarques sur la séances (membre absent, pbe technique, ...) :
 
 
 ## Séance n° 2
