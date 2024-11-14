@@ -32,11 +32,11 @@ Travail éffectué : Installation de Dolibarr
 
 ## Séance n° 3
 
-* date - heure
-* Travail effectué
-* A faire à la prochaine séance
-* Difficultés rencontrées
-* Remarques sur la séances (membre absent, pbe technique, ...)
+* date - heure : 07/11 de 8h30 -11h30
+* Travail effectué : Importation et exportation de la base de données en fichier csv et configuration des infos fictives 
+* A faire à la prochaine séance : Automatisation de l'installation avec  dockerfile 
+* Difficultés rencontrées : Aucune
+* Remarques sur la séances (membre absent, pbe technique, ...) : Aucune 
 
 
 
